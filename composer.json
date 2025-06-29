@@ -1,17 +1,17 @@
 {
-    "name": "safemood/discountify",
+    "name": "muyaedward/discountify",
     "description": "Laravel package for dynamic discounts with custom conditions.",
     "keywords": [
-        "Safemood",
+        "Edward Mwangi",
         "laravel",
         "discountify"
     ],
-    "homepage": "https://github.com/safemood/discountify",
+    "homepage": "https://github.com/muyaedward/discountify",
     "license": "MIT",
     "authors": [
         {
-            "name": "Khalil Bouzidi",
-            "email": "kbouziditn@gmail.com",
+            "name": "Edward Mwangi",
+            "email": "muyaedward@gmail.com",
             "role": "Developer"
         }
     ],
